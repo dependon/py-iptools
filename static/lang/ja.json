@@ -1,0 +1,10 @@
+{
+  "title": "IP情報検索システム",
+  "Country/Region": "国/地域",
+  "Region Name": "地域名",
+  "City": "とし",
+  "Internet Service Provider": "インターネットサービスプロバイダ",
+  "Ip": "Ip",
+  "Search": "検索けんさく",
+  "tip": "ip-api.comで提供されているapiを使用したガジェットは、ネットワークに接続する必要があります。検索するipを入力して検索をクリックし、ipの情報が戻ってくるのを待ってください"
+}

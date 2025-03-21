@@ -1,0 +1,10 @@
+{
+  "title": "Sistema de Consulta de Informações de IP",
+  "Country/Region": "País/Região",
+  "Region Name": "Nome da região",
+  "City": "Cidade",
+  "Internet Service Provider": "Fornecedor de Serviços de Internet",
+  "Ip": "Ip",
+  "Search": "Procurar",
+  "tip": "Uma pequena ferramenta feita usando a API fornecida por ip-api.com que precisa ser conectada à internet. Por favor, introduza o endereço IP que você quer consultar e clice na procura. Espere que a API devolva a informação IP"
+}

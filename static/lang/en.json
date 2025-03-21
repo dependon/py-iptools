@@ -1,0 +1,10 @@
+{
+  "title": "IP Information Query System",
+  "Country/Region": "Country/Region",
+  "Region Name": "Region Name",
+  "City": "City",
+  "Internet Service Provider": "Internet Service Provider",
+  "Ip": "Ip",
+  "Search": "Search",
+  "tip": "A small tool made using the API provided by ip-api.com that needs to be connected to the internet. Please enter the IP address you want to query and click search. Wait for the API to return the IP information"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "IP信息查询系统",
+  "Country/Region": "国家/地区",
+  "Region Name": "地区名称",
+  "City": "城市",
+  "Internet Service Provider": "网络服务提供商",
+  "Ip": "IP",
+  "Search": "查询",
+  "tip": "使用ip-api.com提供的API工具，需要联网使用。请输入要查询的IP地址并点击查询，等待API返回IP信息"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Système de requête d'informations IP",
+  "Country/Region": "Pays / région",
+  "Region Name": "Nom de la région",
+  "City": "La ville",
+  "Internet Service Provider": "Fournisseurs de services Internet",
+  "Ip": "Ip",
+  "Search": "Rechercher",
+  "tip": "Gadget fait avec l'API fournie par ip-api.com, besoin de mise en réseau, s'il vous plaît entrer l'IP qui doit être interrogé et appuyez sur rechercher, attendez que l'API retourne les informations pour obtenir l'IP"
+}

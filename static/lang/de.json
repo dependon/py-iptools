@@ -1,0 +1,10 @@
+{
+  "title": "IP-Informationen Abfragesystem",
+  "Country/Region": "Land/Region",
+  "Region Name": "Region Name",
+  "City": "Stadt",
+  "Internet Service Provider": "Internet Service Provider",
+  "Ip": "Ip",
+  "Search": "Suche",
+  "tip": "Ein kleines Tool mit der API von ip-api.com, das mit dem Internet verbunden sein muss. Bitte geben Sie die IP-Adresse ein, die Sie abfragen möchten und klicken Sie auf Suchen. Warten Sie, bis die API die IP-Informationen zurückgegeben hat."
+}
