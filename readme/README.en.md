@@ -1,8 +1,8 @@
-[中文](README.zh-CN.md) [日本語](readme/README.ja.md) [Русский](readme/README.ru.md) [Deutsch](readme/README.de.md) [Français](readme/README.fr.md) [Português](readme/README.pt-BR.md)
+[中文](../README.zh-CN.md) [日本語](README.ja.md) [Русский](README.ru.md) [Deutsch](README.de.md) [Français](README.fr.md) [Português](README.pt-BR.md)
 
 # IP Geolocation Tool
 
-![Screenshot](screen/screen1.jpg)
+![Screenshot](../screen/screen1.jpg)
 
 ## Features
 - Real-time IP geolocation lookup
