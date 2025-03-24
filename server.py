@@ -8,6 +8,7 @@ def index():
     client_ip = request.headers.get('X-Forwarded-For', request.remote_addr).split(',')[0].strip()
     
     country_lang_mapping = {
+        'en': 'en',
         'CN': 'zh-CN',
         'JP': 'ja',
         'RU': 'ru',
