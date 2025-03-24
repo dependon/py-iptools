@@ -4,6 +4,10 @@
 
 ![Screenshot](screen/screen1.jpg)
 
+## test website
+
+[https://ip.fantacy.online/](https://ip.fantacy.online/)
+
 ## Features
 - Real-time IP geolocation lookup
 - Country/Region/City/ISP information
