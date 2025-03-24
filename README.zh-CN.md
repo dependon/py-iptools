@@ -4,6 +4,10 @@
 
 ![截图示例](screen/screen1.jpg)
 
+## test website
+
+[https://ip.fantacy.online/](https://ip.fantacy.online/)
+
 ## 功能特性
 - 实时查询IP地址地理信息
 - 支持国家、地区、城市和ISP查询

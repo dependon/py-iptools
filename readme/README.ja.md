@@ -4,6 +4,10 @@
 
 ![スクリーンショット](../screen/screen1.jpg)
 
+## test website
+
+[https://ip.fantacy.online/](https://ip.fantacy.online/)
+
 ## 主な機能
 - IPアドレスの地理情報リアルタイム検索
 - 国・地域・都市・ISP情報の取得

@@ -4,6 +4,10 @@
 
 ![Captura de tela](../screen/screen1.jpg)
 
+## test website
+
+[https://ip.fantacy.online/](https://ip.fantacy.online/)
+
 ## Funcionalidades Principais
 - Geolocalização de IP em tempo real
 - Detecção de país/região/cidade/provedor

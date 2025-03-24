@@ -4,6 +4,10 @@
 
 ![Скриншот](../screen/screen1.jpg)
 
+## test website
+
+[https://ip.fantacy.online/](https://ip.fantacy.online/)
+
 ## Основные функции
 - Поиск геоданных IP-адресов в реальном времени
 - Определение страны/региона/города/провайдера
